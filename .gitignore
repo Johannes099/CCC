@@ -1,2 +1,4 @@
 __pycache__/
-level6/run.log
+level6/*.log
+level6/*.so
+level6/*.tmp
